@@ -1,0 +1,9 @@
+css
+
+style=”text-align: justify;”     ——>   es para justificar el texto
+
+style=”text-align: center;”      ———> es para centrar el texto
+
+style=”text-align: left;”     ——>   es para llevar el texto a la izquierda
+
+style=”text-align: right;”      ———> es para llevar el texto a la derecha.

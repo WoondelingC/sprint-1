@@ -1,0 +1,62 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#main {
+    margin-top: 40px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 40px;
+    padding: 15px;
+    border-radius: 10px;
+    background: #eee;
+}
+#title {
+    font-size: 45px;
+    text-align: center;
+}
+
+#p-title{
+    text-align: center;
+}
+
+#img-div , #img-caption
+{
+    text-align: center;
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#img-div #image{
+    width: 1030px;
+    height: 540px;
+    border-radius: 10px;
+}
+
+#tribute-info {
+    text-align: center;
+    font-weight: bold;
+    margin: 35px 0;
+    font-size: 20px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+ blockquote p{
+    margin: 0 auto 30px auto;
+    text-align: center;
+}
+
+#cite{
+    margin-left: 46%;
+}
+h3{
+    text-align: center;
+    font-weight: bold;
+}
